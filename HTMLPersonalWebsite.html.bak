@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Jeremiah Barnes</title>
+	</head>
+	<body>
+		<img src='headshot.jpg' alt='Headshot Image' style="width:128px;height:128px:">
+		<h1>This is a website.</h1>
+		<p><i>IT, Woodworker, Programmer, Musician, Farmer</i></p>
+		<p>I am an IT professional who does woodworking, programming, music recording, and small farming on the side.</p>
+		<hr size=2>
+		<h3>Portfolio</h3>
+		<div>
+			<ul>
+				<li>Woodworking Portfolio</li>
+				<li>Website Demo</li>
+				<li>Farm Pictures</li>
+				<li>Music Downloads</li>
+			</ul>
+		</div>
+		<h3>Other Projects</h3>
+		<div>
+			<ul>
+				<li>Blog</li>
+				<li>Twitch Stream</li>
+				<li><a href="Book Recommendations.html">Book Recommendations</a></li>
+				<li><a href="Media Recs.html">Film/TV Recommendations</a></li>
+			</ul>
+		</div>
+		<hr size=2>
+		<h3>Work Experience</h3>
+		<table>
+			<thead>
+					<tr>
+						<th>Years</th>
+						<th>Name</th>
+						<th>Role</th>
+					</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>2016-2017</td>
+					<td>Belcan</td>
+				</tr>
+				<tr>
+					<td>2017-2018</td>
+					<td>Arvato</td>
+				</tr>
+				<tr>
+					<td>2018-2020</td>
+					<td>DAI</td>
+				</tr>
+				<tr>
+					<td>2020-Present</td>
+					<td>Alltech</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
