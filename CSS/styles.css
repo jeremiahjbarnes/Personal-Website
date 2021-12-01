@@ -1,3 +1,5 @@
+/**************Selectors***********************/
+
 body {
 	background-color: #FBF3E4;
 }
@@ -14,4 +16,56 @@ h1{
 
 h3{
 	color: #B91646;
+}
+
+table{
+	table-layout:fixed;
+}
+
+td{
+	width:200px;
+}
+
+th{
+	text-align:center;
+}
+
+ul{
+	text-align:left;
+}
+
+
+/**********************Classes*****************************/
+
+.hide{
+	display:none;
+}
+
+.show:hover + .hide{
+	display:block;
+}
+
+.tablecenter{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.divcenter{
+	align:center;
+}
+
+.centered-wrapper {
+    position: relative;
+    text-align: center;
+}
+.centered-wrapper:before {
+    content: "";
+    position: relative;
+    display: inline-block;
+    width: 0; height: 100%;
+    vertical-align: middle;
+}
+.centered-content {
+    display: inline-block;
+    vertical-align: middle;
 }
