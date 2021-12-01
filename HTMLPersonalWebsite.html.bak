@@ -3,8 +3,16 @@
 	<head>
 		<meta content-type: text/html; charset="UTF-8">
 		<title>Jeremiah Barnes</title>
+		<style>
+			body {
+				background-color: #FBF3E4;
+			}
+			hr {
+				background-color: #105652;
+			}
+		</style>
 	</head>
-	<body style="background-color: blue">
+	<body>
 		<table cellspacing="20">
 			<tr>
 				<td>
